@@ -14,4 +14,8 @@ CREATE TABLE IF NOT EXISTS posts (
 );
 
 INSERT INTO usuarios (usuario, apelido) VALUES ('manseira0129', 'O MESTRE');
+INSERT INTO usuarios (usuario, apelido) VALUES ('toninho22', 'Tone Mahone');
+INSERT INTO usuarios (usuario, apelido) VALUES ('cleitinrasta', 'Cleito');
 INSERT INTO posts (user_id, texto, tempo) VALUES (1, 'Fala povo', NOW());
+INSERT INTO posts (user_id, texto, tempo) VALUES (2, 'Salve :D', NOW());
+INSERT INTO posts (user_id, texto, tempo) VALUES (3, 'abiuriforitiaudusei', NOW());
